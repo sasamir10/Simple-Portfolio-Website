@@ -5,7 +5,7 @@ The website is designed to showcase personal information, services, selected pro
 
 ## 🌐 Live Demo
 
-**[View Live Website]((https://sasamir10.github.io/Simple-Portfolio-Website/))**
+https://sasamir10.github.io/Simple-Portfolio-Website/
 
 
 ---
